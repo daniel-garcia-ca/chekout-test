@@ -14,7 +14,7 @@
       </releases>
       <name>mvnrepository</name>
       <id>mvnrepository-repo</id>
-      <url>https://mvnrepository.com/artifact</url>
+      <url>https://maven.google.com</url>
       <layout>default</layout>
     </repository>
   </repositories>
