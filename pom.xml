@@ -17,6 +17,19 @@
       <url>https://maven.google.com</url>
       <layout>default</layout>
     </repository>
+
+    <repository>
+      <releases>
+        <enabled>true</enabled>
+        <updatePolicy>never</updatePolicy>
+        <checksumPolicy>warn</checksumPolicy>
+      </releases>
+      <name>mvnrepository</name>
+      <id>mvnrepository-repo</id>
+      <url>https://mvnrepository.com</url>
+      <layout>default</layout>
+    </repository>
+
   </repositories>
 
   <dependencies>
