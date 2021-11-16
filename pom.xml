@@ -26,7 +26,7 @@
       </releases>
       <name>mvnrepository</name>
       <id>mvn-repo</id>
-      <url>https://mvnrepository.com</url>
+      <url>https://mvnrepository.com/artifact</url>
       <layout>default</layout>
     </repository>
 
