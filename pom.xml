@@ -9,13 +9,13 @@
     <repository>
       <releases>
         <enabled>true</enabled>
-        <updatePolicy>always</updatePolicy>
+        <updatePolicy>never</updatePolicy>
         <checksumPolicy>warn</checksumPolicy>
       </releases>
       <name>mvnrepository</name>
       <id>mvnrepository-repo</id>
       <url>https://maven.google.com</url>
-      <layout>legacy</layout>
+      <layout>default</layout>
     </repository>
   </repositories>
 
