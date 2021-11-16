@@ -13,7 +13,7 @@
         <checksumPolicy>warn</checksumPolicy>
       </releases>
       <name>mvn-google</name>
-      <id>mvnrepository-repo</id>
+      <id>mvn-repo-google</id>
       <url>https://maven.google.com</url>
       <layout>default</layout>
     </repository>
@@ -25,7 +25,7 @@
         <checksumPolicy>warn</checksumPolicy>
       </releases>
       <name>mvnrepository</name>
-      <id>mvnrepository-repo</id>
+      <id>mvn-repo</id>
       <url>https://mvnrepository.com</url>
       <layout>default</layout>
     </repository>
