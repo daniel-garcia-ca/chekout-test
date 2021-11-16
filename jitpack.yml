@@ -7,7 +7,7 @@
 
 \f0\fs24 \cf0 install:\
 	- FILE=\'93-Dfile=netpay-sdklegacy-realese-2.0.0.aar\'94\
-	- mvn install:install-file $FILE -DgroupId=mx.com.netpay.checkout-sdk-legacy -DartifactId=netpay-sdklegacy-realese-2.0.0 -Dversion=2.0.0 -Dpackaging=aar -DpomFile=pom.xml 
+	- mvn install:install-file $FILE -DgroupId=mx.com.netpay.checkout-sdk-legacy -DartifactId=netpay-sdklegacy-realese-2.0.0 -Dversion=2.0.0 -Dpackaging=aar -DpomFile=pom.xml
 \f1\fs23\fsmilli11900 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 -DgeneratePom=true\
+\
 }
