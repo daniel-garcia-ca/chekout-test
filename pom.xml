@@ -8,15 +8,10 @@
   <repositories>
     <repository>
       <releases>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <updatePolicy>always</updatePolicy>
         <checksumPolicy>warn</checksumPolicy>
       </releases>
-      <snapshots>
-        <enabled>true</enabled>
-        <updatePolicy>never</updatePolicy>
-        <checksumPolicy>fail</checksumPolicy>
-      </snapshots>
       <name>mvnrepository</name>
       <id>mvnrepository-repo</id>
       <url>https://mvnrepository.com/artifact</url>
