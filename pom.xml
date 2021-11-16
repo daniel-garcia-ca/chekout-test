@@ -15,7 +15,7 @@
       <name>mvnrepository</name>
       <id>mvnrepository-repo</id>
       <url>https://maven.google.com</url>
-      <layout>default</layout>
+      <layout>legacy</layout>
     </repository>
   </repositories>
 
