@@ -4,6 +4,26 @@
   <groupId>mx.com.netpay.checkout-sdk-legacy</groupId>
   <artifactId>netpay-sdklegacy-realese</artifactId>
   <version>2.0.0</version>
+
+  <repositories>
+    <repository>
+      <releases>
+        <enabled>false</enabled>
+        <updatePolicy>always</updatePolicy>
+        <checksumPolicy>warn</checksumPolicy>
+      </releases>
+      <snapshots>
+        <enabled>true</enabled>
+        <updatePolicy>never</updatePolicy>
+        <checksumPolicy>fail</checksumPolicy>
+      </snapshots>
+      <name>mvnrepository</name>
+      <id>mvnrepository-repo</id>
+      <url>https://mvnrepository.com/artifact</url>
+      <layout>default</layout>
+    </repository>
+  </repositories>
+
   <dependencies>
     <dependency>
       <groupId>com.airbnb.android</groupId>
