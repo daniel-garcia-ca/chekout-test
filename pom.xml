@@ -55,6 +55,7 @@
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>28.0.0</version>
+      <type>aar</type>
     </dependency>
     <dependency>
       <groupId>com.android.support.constraint</groupId>
@@ -87,6 +88,9 @@
       <version>4.7.2</version>
     </dependency>
   </dependencies>
+
+
+
 </project>
 
 
