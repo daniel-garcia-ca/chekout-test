@@ -26,8 +26,9 @@
       </releases>
       <name>mvnrepository</name>
       <id>mvn-repo</id>
-      <url>https://mvnrepository.com/artifact</url>
+      <url>https://mvnrepository.com</url>
       <layout>default</layout>
+      <classifier>artifact</classifier>
     </repository>
 
     <repository>
@@ -76,8 +77,7 @@
       <artifactId>logging-interceptor</artifactId>
       <version>4.7.2</version>
       <scope>compile</scope>
-    </dependency>    
-
+    </dependency>
 
     <dependency>
       <artifactId>appcompat-v7</artifactId>
