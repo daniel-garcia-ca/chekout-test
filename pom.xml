@@ -107,6 +107,7 @@
       <artifactId>appcompat-v7</artifactId>
       <groupId>com.android.support</groupId>
       <version>28.0.0</version>
+      <type>aar</type>
       <scope>runtime</scope>
     </dependency>
     
@@ -114,6 +115,7 @@
       <artifactId>constraint-layout</artifactId>
       <groupId>com.android.support.constraint</groupId>
       <version>2.0.4</version>
+      <type>aar</type>
       <scope>runtime</scope>
     </dependency>
     
@@ -121,6 +123,7 @@
       <artifactId>design</artifactId>
       <groupId>com.android.support</groupId>
       <version>28.0.0</version>
+      <type>aar</type>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
