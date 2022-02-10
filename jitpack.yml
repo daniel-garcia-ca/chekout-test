@@ -1,5 +1,5 @@
 jdk:
   - openjdk8
 install:
-  - FILE="-Dfile=netpaysdk-2.3.7.aar"
+  - FILE="-Dfile=netpaysdk-2.3.8.aar"
   - mvn install:install-file $FILE -Dpackaging=aar -DpomFile=pom.xml
