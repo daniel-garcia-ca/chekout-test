@@ -10,7 +10,6 @@
   <groupId>mx.com.netpay.netpaysdk</groupId>
   <artifactId>netpaysdk</artifactId>
   <version>2.3.7</version>
-  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>com.airbnb.android</groupId>
