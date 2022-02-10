@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>mx.com.netpay.netpaysdk</groupId>
   <artifactId>netpaysdk</artifactId>
-  <version>2.4.5</version>
+  <version>2.4.6</version>
   <dependencies>
     <dependency>
       <groupId>com.airbnb.android</groupId>
@@ -78,7 +78,7 @@
       <artifactId>jna</artifactId>
       <version>5.8.0</version>
       <type>aar</type>
-      <scope>compile</scope>
+      <scope>runtime</scope>
       <exclusions>
         <exclusion>
           <artifactId>*</artifactId>
